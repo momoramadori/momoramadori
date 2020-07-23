@@ -8,7 +8,7 @@ I'm currently trying to  learn Laravel with all its magic features and  faciliti
 
 I'm also in love with JavaScript (trying to learn JS plain, started from jQuery).
 
- Contact me
+ Contact me:
 
  🐦 - @momorama_dev (twitter)
 
