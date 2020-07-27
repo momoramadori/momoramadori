@@ -1,6 +1,6 @@
 Hello everyone! 🤟🏼
 
-I'm Momo, a passionate WebDev student from Italy. 🧑🏻‍💻 🇮🇹
+I'm Momo, a passionate WebDev from Italy. 🧑🏻‍💻 🇮🇹
 
 There you'll find all the public stuffs on which I've worked  on  my developing journey about languages, frameworks and libraries. 📚  
 
