@@ -12,4 +12,6 @@ I'm also in love with JavaScript (trying to learn JS plain, started from jQuery)
 
  🐦 - @momorama_dev (twitter)
 
-✉️ - momoramadori8@gmail.com
+📩 - momoramadori8@gmail.com
+
+💼 - https://www.linkedin.com/in/momoramadori/
