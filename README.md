@@ -16,7 +16,7 @@ I'm also in love with JavaScript (trying to learn JS plain, started from jQuery)
    <a href="https://twitter.com/momorama_dev/" target="_blank" display="inline-block">
      <img src="https://github.com/momoramadori/momoramadori/blob/master/images/twitter.png" alt="Twitter" width="50" height="50" />
    </a>
-   <a href="<a href="mailto:momoramadori@gmail.com">Scrivi una mail</a>" target="_blank" display="inline-block">
+   <a href="mailto:momoramadori@gmail.com">Scrivi una mail</a>" target="_blank" display="inline-block">
       <img src="https://github.com/momoramadori/momoramadori/blob/master/images/gmail.png" alt="Gmail" width="50" height="50" />
    </a>
   <p> Visit my Portfolio ⬇️ </p>
