@@ -16,6 +16,9 @@ I'm also in love with JavaScript (trying to learn JS plain, started from jQuery)
    <a href="https://twitter.com/momorama_dev/" target="_blank" display="inline-block">
      <img src="https://github.com/momoramadori/momoramadori/blob/master/images/twitter.png" alt="Twitter" width="50" height="50" />
    </a>
+   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwCftXpJqztnFKRTghpcMmrlgzsWSrdMcrMqsqjtQHdrlrNVtljLTgRGdrqwfSLwgfGtML" target="_blank" display="inline-block">
+      <img src="https://github.com/momoramadori/momoramadori/blob/master/images/domain.png" alt="Portfolio" width="50" height="50" />
+   </a>
   <p> Visit my Portfolio ⬇️ </p>
   <a href="https://momoramadori.dev" target="_blank" display="inline-block">
       <img src="https://github.com/momoramadori/momoramadori/blob/master/images/domain.png" alt="Portfolio" width="50" height="50" />
