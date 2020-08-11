@@ -11,14 +11,17 @@ I'm also in love with JavaScript (trying to learn JS plain, started from jQuery)
  Contact me:
  
  <div align="center">
+ <p> Reach me ⬇️  </p>
   <a href="https://www.linkedin.com/in/momoramadori/" target="_blank" >
     <img src="https://github.com/momoramadori/momoramadori/blob/master/images/linkedin.png" alt="Linkedin" width="50" height="50"/>
   </a>
   <a href="https://twitter.com/momorama_dev/" target="_blank" display="inline-block">
     <img src="https://github.com/momoramadori/momoramadori/blob/master/images/twitter.png" alt="Twitter" width="50" height="50" />
   </a>
-  <a href="https://momoramadori.dev" target="_blank" display="inline-block">
-   My Portfolio:
-    <img src="https://github.com/momoramadori/momoramadori/blob/master/images/domain.png" alt="Portfolio" width="50" height="50" />
-  </a>
+  
 </div>
+
+<p> Visit my Portfolio ⬇️ </p>
+<a href="https://momoramadori.dev" target="_blank" display="inline-block">
+    <img src="https://github.com/momoramadori/momoramadori/blob/master/images/domain.png" alt="Portfolio" width="50" height="50" />
+ </a>
