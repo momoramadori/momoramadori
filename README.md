@@ -15,10 +15,10 @@ I'm also in love with JavaScript (trying to learn JS plain, started from jQuery)
     <img src="https://github.com/momoramadori/momoramadori/blob/master/images/linkedin.png" alt="Linkedin" width="50" height="50"/>
   </a>
   <a href="https://twitter.com/Dario_WD_coding" target="_blank" display="inline-block">
-    <img src="https://github.com/momoramadori/momoramadori/blob/master/images/twitter.png" alt="Twitter" />
+    <img src="https://github.com/momoramadori/momoramadori/blob/master/images/twitter.png" alt="Twitter" width="50" height="50" />
   </a>
   <a href="https://codepen.io/press-the-j" display="inline-block">
-    <img src="https://github.com/momoramadori/momoramadori/blob/master/images/codepen.png" alt="Portfolio" width="50" height="50" />
+    <img src="https://github.com/momoramadori/momoramadori/blob/master/images/portfolio.png" alt="Portfolio" width="50" height="50" />
   </a>
 </div>
 
