@@ -7,8 +7,6 @@ There you'll find all the public stuffs on which I've worked  on  my developing 
 I'm currently practising with Laravel and all its magic features and  facilities for backend stuffs.  🚀  
 
 I'm also in love with JavaScript (trying to learn JS plain, started from jQuery).
-
- Contact me:
  
  <div align="center">
   <p> Reach me ⬇️  </p>
