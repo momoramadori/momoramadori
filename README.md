@@ -14,7 +14,7 @@ I'm also in love with JavaScript (trying to learn JS plain, started from jQuery)
      <img src="https://github.com/momoramadori/momoramadori/blob/master/images/linkedin.png" alt="Linkedin" width="50" height="50"/>
    </a>
    <a href="https://twitter.com/momorama_dev/" target="_blank" display="inline-block">
-     <img src="https://github.com/momoramadori/momoramadori/blob/master/images/twitter.png" alt="Twitter" width="45" height="40" />
+     <img src="https://github.com/momoramadori/momoramadori/blob/master/images/twitter.png" alt="Twitter" width="40" height="35" />
    </a>
    <a href="mailto:momo.ramadori@gmail.com" target="_blank" display="inline-block">
       <img src="https://github.com/momoramadori/momoramadori/blob/master/images/gmail.png" alt="Gmail" width="50" height="50" />
