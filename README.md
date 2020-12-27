@@ -7,7 +7,7 @@
 
 I'm mainly in love with Backend stuffs (actually mastering PHP) ⚙️
 
-Therefore I'm currently practising with React and all its magic features and  facilities for fronted stuffs 🚀  
+Moreover I'm currently practising with React and all its magic features and  facilities for fronted stuffs 🚀  
 
 ![](https://img.shields.io/badge/editor-VS%20Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=59f4b2)
 ![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=59f4b2)
