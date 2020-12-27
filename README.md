@@ -1,4 +1,6 @@
 ![momoramadori's banner](https://github.com/momoramadori/momoramadori/blob/master/images/1.png)
+
+## Hi there, it's Momo! 👋
 ![](https://img.shields.io/badge/editor-VS%20Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=59f4b2)
 ![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=59f4b2)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=59f4b2)
@@ -8,8 +10,6 @@
 ![](https://img.shields.io/badge/code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=59f4b2)
 ![](https://img.shields.io/badge/fw-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=59f4b2)
 ![](https://img.shields.io/badge/fw-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=59f4b2)
-
-## Hi there, it's Momo! 👋
 
 <p><em>I'm actually a Junior Software Enginner at <a href="https://www.shippypro.com/">ShippyPro</a><img src="https://media.giphy.com/media/8crK6V3SrdR97sQC1i/giphy.gif" width="30">
 </em></p>
