@@ -4,7 +4,7 @@
 
 I'm Momo Ramadori, a Junior Software Developer who wants to learn EVERYTHING about code!🇹
 
-[![Linkedin: momoramadori](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momoramadori/)](https://www.linkedin.com/in/momoramadori/)
+[![Linkedin: momoramadori](https://img.shields.io/badge/momoramadori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momoramadori/)](https://www.linkedin.com/in/momoramadori/)
 [![GitHub momoramadori](https://img.shields.io/github/followers/momoramadori?label=follow&style=social)](https://github.com/momoramadori)
 
 <p><em>Software Enginner at <a href="https://www.shippypro.com/">ShippyPro</a><img src="https://media.giphy.com/media/8crK6V3SrdR97sQC1i/giphy.gif" width="30">
