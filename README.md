@@ -25,7 +25,6 @@ Therefore I'm currently practising with React and all its magic features and  fa
 
 ## Come say hi!
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 [![Linkedin: momoramadori](https://img.shields.io/badge/momoramadori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momoramadori/)](https://www.linkedin.com/in/momoramadori/)
 [![GitHub momoramadori](https://img.shields.io/github/followers/momoramadori?label=follow&style=social)](https://github.com/momoramadori)
 
