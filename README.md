@@ -20,9 +20,7 @@ Therefore I'm currently practising with React and all its magic features and  fa
 
 ## GitHub Stats
 
-[![Momo's github stats](https://github-readme-stats.vercel.app/api?username=momoramadori&show_icons=true&theme=midnight-purple)](https://github.com/momoramadori/github-readme-stats)
-
-[![Momo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=momoramadori&show_icons=true&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Momo's github stats](https://github-readme-stats.vercel.app/api?username=momoramadori&show_icons=true&theme=midnight-purple)](https://github.com/momoramadori/github-readme-stats) [![Momo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=momoramadori&show_icons=true&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
  
  <div align="center">
   <p> Reach me ⬇️  </p>
