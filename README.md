@@ -5,15 +5,15 @@
 I'm Momo, a Junior Software Developer who wants to learn EVERYTHING about code!🇹
 
 ![](https://img.shields.io/badge/editor-VS%20Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=02d280)
-![](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=02d280)
-![](https://img.shields.io/badge/code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=02d280)
+![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=02d280)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=02d280)
+![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=02d280)
+![](https://img.shields.io/badge/code-React-informational?style=flat&logo=React&logoColor=white&color=02d280)
+![](https://img.shields.io/badge/library-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=02d280)
 ![](https://img.shields.io/badge/code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=02d280)
 ![](https://img.shields.io/badge/framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=02d280)
-![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=02d280)
-![](https://img.shields.io/badge/library-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=02d280)
-![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=02d280)
 ![](https://img.shields.io/badge/framework-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=02d280)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=02d280)
+
 
 
 
