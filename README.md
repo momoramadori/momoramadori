@@ -1,4 +1,4 @@
-[momoramadori's banner](https://github.com/momoramadori/momoramadori/blob/master/images/%40momoramadori.png)
+![momoramadori's banner](https://github.com/momoramadori/momoramadori/blob/master/images/%40momoramadori.png)
 
 Hello everyone! 🤟🏼
 
