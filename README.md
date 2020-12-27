@@ -14,14 +14,10 @@ I'm Momo, a Junior Software Developer who wants to learn EVERYTHING about code!�
 ![](https://img.shields.io/badge/framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=02d280)
 ![](https://img.shields.io/badge/framework-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=02d280)
 
+I'm mainly in love with Backend stuffs (actually mastering PHP). ⚙️
 
+Therefore I'm currently practising with React and all its magic features and  facilities for fronted stuffs.  🚀  
 
-
-There you'll find all the public stuffs on which I've worked  on  my developing journey about languages, frameworks and libraries. 📚  
-
-I'm currently practising with React and all its magic features and  facilities for fronted stuffs.  🚀  
-
-I'm also in love with PHP (mastering it).
 
 [![Momo's github stats](https://github-readme-stats.vercel.app/api?username=momoramadori&show_icons=true&theme=midnight-purple)](https://github.com/momoramadori/github-readme-stats)
  
