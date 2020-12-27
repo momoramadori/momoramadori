@@ -7,6 +7,8 @@ There you'll find all the public stuffs on which I've worked  on  my developing 
 I'm currently practising with React and all its magic features and  facilities for fronted stuffs.  🚀  
 
 I'm also in love with PHP (mastering it).
+
+[![Momo's github stats](https://github-readme-stats.vercel.app/api?username=momoramadori)](https://github.com/momoramadori/github-readme-stats)
  
  <div align="center">
   <p> Reach me ⬇️  </p>
