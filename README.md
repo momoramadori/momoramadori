@@ -26,6 +26,7 @@ Therefore I'm currently practising with React and all its magic features and  fa
 ## Come say hi!
 
 [![Linkedin: momoramadori](https://img.shields.io/badge/momoramadori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momoramadori/)](https://www.linkedin.com/in/momoramadori/)
+[![email: momoramadori](https://img.shields.io/badge/momoramadori-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:momoramadori8@gmail.com)](mailto:momoramadori8@gmail.com)
 [![GitHub momoramadori](https://img.shields.io/github/followers/momoramadori?label=follow&style=social)](https://github.com/momoramadori)
 
 ---
