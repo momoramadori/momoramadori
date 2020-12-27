@@ -2,7 +2,7 @@
 
 ## Hi there, it's Momo! 👋
 
-<p><em>I'm actually a Junior Software Enginner at <a href="https://www.shippypro.com/">ShippyPro</a><img src="https://media.giphy.com/media/8crK6V3SrdR97sQC1i/giphy.gif" width="30">
+<p><em>I'm actually a Junior Software Engineer at <a href="https://www.shippypro.com/">ShippyPro</a><img src="https://media.giphy.com/media/8crK6V3SrdR97sQC1i/giphy.gif" width="30">
 </em></p>
 
 I'm mainly in love with Backend stuffs (actually mastering PHP) ⚙️
