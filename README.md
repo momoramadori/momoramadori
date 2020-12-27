@@ -1,3 +1,5 @@
+[![momoramadori's banner](https://github.com/attraverso/attraverso/raw/master/images/@momoramadori.png)]
+
 Hello everyone! 🤟🏼
 
 I'm Momo, a passionate WebDev from Italy. 🧑🏻‍💻 🇮🇹
