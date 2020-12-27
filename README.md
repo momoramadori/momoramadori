@@ -15,9 +15,6 @@ I'm also in love with PHP (mastering it).
    <a href="https://www.linkedin.com/in/momoramadori/" target="_blank" >
      <img src="https://github.com/momoramadori/momoramadori/blob/master/images/linkedin.png" alt="Linkedin" width="50" height="50"/>
    </a>
-   <a href="https://twitter.com/momorama_dev/" target="_blank" display="inline-block">
-     <img src="https://github.com/momoramadori/momoramadori/blob/master/images/Twitter-icon-2.png" alt="Twitter" width="50" height="50" />
-   </a>
    <a href="mailto:momo.ramadori@gmail.com" target="_blank" display="inline-block">
       <img src="https://github.com/momoramadori/momoramadori/blob/master/images/gmail.png" alt="Gmail" width="50" height="50" />
    </a>
