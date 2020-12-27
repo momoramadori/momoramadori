@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/library-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=59f4b2)
 ![](https://img.shields.io/badge/code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=59f4b2)
 ![](https://img.shields.io/badge/framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=59f4b2)
-![](https://img.shields.io/badge/framework-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=59f4b2)
+![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=59f4b2)
 
 ## Hi there, it's Momo! 👋
 
