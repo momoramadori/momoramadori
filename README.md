@@ -8,7 +8,7 @@ I'm currently practising with React and all its magic features and  facilities f
 
 I'm also in love with PHP (mastering it).
 
-[![Momo's github stats](https://github-readme-stats.vercel.app/api?username=momoramadori)](https://github.com/momoramadori/github-readme-stats)
+[![Momo's github stats](https://github-readme-stats.vercel.app/api?username=momoramadori&show_icons=true&theme=radical)](https://github.com/momoramadori/github-readme-stats)
  
  <div align="center">
   <p> Reach me ⬇️  </p>
