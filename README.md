@@ -2,7 +2,13 @@
 
 ## Hi there! 👋
 
-I'm Momo, a Junior Software Developer who wants to learn EVERYTHING about code!🇹
+I'm Momo Ramadori, a Junior Software Developer who wants to learn EVERYTHING about code!🇹
+
+[![Linkedin: momoramadori](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momoramadori/)](https://www.linkedin.com/in/momoramadori/)
+[![GitHub momoramadori](https://img.shields.io/github/followers/momoramadori?label=follow&style=social)](https://github.com/momoramadori)
+
+<p><em>Software Enginner at <a href="https://www.shippypro.com/">ShippyPro</a><img src="https://media.giphy.com/media/8crK6V3SrdR97sQC1i/giphy.gif" width="30">
+</em></p>
 
 ![](https://img.shields.io/badge/editor-VS%20Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=02d280)
 ![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=02d280)
@@ -21,27 +27,6 @@ Therefore I'm currently practising with React and all its magic features and  fa
 ## GitHub Stats
 
 [![Momo's github stats](https://github-readme-stats.vercel.app/api?username=momoramadori&show_icons=true&theme=midnight-purple)](https://github.com/momoramadori/github-readme-stats)     [![Momo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=momoramadori&show_icons=true&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
- 
- <div align="center">
-  <p> Reach me ⬇️  </p>
-   <a href="https://www.linkedin.com/in/momoramadori/" target="_blank" >
-     <img src="https://github.com/momoramadori/momoramadori/blob/master/images/linkedin.png" alt="Linkedin" width="50" height="50"/>
-   </a>
-   <a href="mailto:momo.ramadori@gmail.com" target="_blank" display="inline-block">
-      <img src="https://github.com/momoramadori/momoramadori/blob/master/images/gmail.png" alt="Gmail" width="50" height="50" />
-   </a>
-    <a href="https://momoramadori.dev" target="_blank" display="inline-block">
-      <img src="https://github.com/momoramadori/momoramadori/blob/master/images/domain.png" alt="Portfolio" width="50" height="50" />
-   </a>
-</div>
-
-## Hi there, I'm Momo Ramadori! 👋
-<p><em>Software Enginner at <a href="https://www.shippypro.com/">ShippyPro</a><img src="https://media.giphy.com/media/8crK6V3SrdR97sQC1i/giphy.gif" width="30">
-</em></p>
-
-[![Linkedin: momoramadori](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momoramadori/)](https://www.linkedin.com/in/momoramadori/)
-[![GitHub momoramadori](https://img.shields.io/github/followers/momoramadori?label=follow&style=social)](https://github.com/momoramadori)
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
