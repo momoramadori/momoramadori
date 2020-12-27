@@ -1,13 +1,13 @@
 ![momoramadori's banner](https://github.com/momoramadori/momoramadori/blob/master/images/1.png)
-![](https://img.shields.io/badge/editor-VS%20Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=02d280)
-![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=02d280)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=02d280)
-![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=02d280)
-![](https://img.shields.io/badge/code-React-informational?style=flat&logo=React&logoColor=white&color=02d280)
-![](https://img.shields.io/badge/library-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=02d280)
-![](https://img.shields.io/badge/code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=02d280)
-![](https://img.shields.io/badge/framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=02d280)
-![](https://img.shields.io/badge/framework-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=02d280)
+![](https://img.shields.io/badge/editor-VS%20Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=59f4b2)
+![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=59f4b2)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=59f4b2)
+![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=59f4b2)
+![](https://img.shields.io/badge/code-React-informational?style=flat&logo=React&logoColor=white&color=59f4b2)
+![](https://img.shields.io/badge/library-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=59f4b2)
+![](https://img.shields.io/badge/code-SASS-informational?style=flat&logo=Sass&logoColor=white&color=59f4b2)
+![](https://img.shields.io/badge/framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=59f4b2)
+![](https://img.shields.io/badge/framework-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=59f4b2)
 
 ## Hi there, it's Momo! 👋
 
