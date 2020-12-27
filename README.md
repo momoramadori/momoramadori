@@ -4,9 +4,9 @@ I'm Momo, a passionate WebDev from Italy. 🧑🏻‍💻 🇮🇹
 
 There you'll find all the public stuffs on which I've worked  on  my developing journey about languages, frameworks and libraries. 📚  
 
-I'm currently practising with Laravel and all its magic features and  facilities for backend stuffs.  🚀  
+I'm currently practising with React and all its magic features and  facilities for fronted stuffs.  🚀  
 
-I'm also in love with JavaScript (trying to learn JS plain, started from jQuery).
+I'm also in love with PHP (mastering it).
  
  <div align="center">
   <p> Reach me ⬇️  </p>
